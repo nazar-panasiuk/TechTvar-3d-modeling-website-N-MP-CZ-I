@@ -462,9 +462,9 @@ strong {
   color: var(--white-color);
 }
 
-.navbar .navbar-brand-image {
+/* .navbar .navbar-brand-image {
   filter: brightness(0) invert(1);
-}
+} */
 
 .navbar-brand-image {
   width: 48px;
