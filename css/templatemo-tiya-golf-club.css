@@ -12,14 +12,14 @@ https://templatemo.com/tm-587-tiya-golf-club
 -----------------------------------------*/
 :root {
   --white-color:                  #ffffff;
-  --primary-color:                #81B29A;
-  --secondary-color:              #3D405B;
+  --primary-color:                #FC766AFF;
+  --secondary-color:              #783937FF;
   --section-bg-color:             #F4F1DE;
-  --custom-btn-bg-color:          #F2CC8F;
+  --custom-btn-bg-color:          #F1AC88FF;
   --custom-btn-bg-hover-color:    #E07A5F;
   --dark-color:                   #000000;
   --p-color:                      #717275;
-  --link-hover-color:             #F2CC8F;
+  --link-hover-color:             #F1AC88FF;
 
   --body-font-family:             'DM Sans', sans-serif;
 
@@ -438,7 +438,7 @@ strong {
 }
 
 .sticky-wrapper.is-sticky .navbar {
-  background-color: rgb(61 64 91);
+  background-color: #783937FF;
 }
 
 .navbar {
@@ -1316,12 +1316,12 @@ strong {
     display: none;
 }
 header i {
-    color: #f2cc8f;
+    color: #F1AC88FF;
     font-size: 32px;
     text-align: center;
 }
 header h2 {
-    color: #f2cc8f;
+    color: #F1AC88FF;
     font-weight: 500;
     text-align: center;
 }
@@ -1329,7 +1329,7 @@ header h2 {
     text-align: center;
 }
 .data p a {
-    color: #f2cc8f;
+    color: #F1AC88FF;
     text-decoration: none;
     text-align: center !important;
 }
@@ -1341,10 +1341,10 @@ header h2 {
     text-align: center;
 }
 .buttons .cookie-button {
-    border: 2px solid #f2cc8f;
+    border: 2px solid #F1AC88FF;
     color: #fff;
     padding: 8px 0;
-    background: #f2cc8f;
+    background: #F1AC88FF;
     cursor: pointer;
     width: calc(100% / 2 - 10px);
     transition: all 0.2s ease;
@@ -1353,14 +1353,14 @@ header h2 {
 }
 .buttons #acceptBtn:hover {
     background-color: transparent;
-    color: #f2cc8f;
+    color: #F1AC88FF;
 }
 #declineBtn {
     background-color: #fff;
-    color: #f2cc8f;
+    color: #F1AC88FF;
     border-radius: 20px;
 }
 #declineBtn:hover {
-    background-color: #f2cc8f;
+    background-color: #F1AC88FF;
     color: #fff;
 }
